@@ -18,6 +18,15 @@
 					"interest": "3",
 					"bool": false
 
+				},
+				{
+					"name": "Kinematics",
+					"complexity": "average",
+					"interest": "great",
+					"bool": true
+
+
+					
 				}
 			]
 		},
